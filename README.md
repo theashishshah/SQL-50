@@ -94,6 +94,14 @@ GROUP BY customer_id, name;
 
 
 ```
+
+
+# Date and Time
+```sql
+
+
+```
+
 # Done topics:
 ✅ COUNT
 ✅ GROUP BY
